@@ -8,5 +8,6 @@ Green
 Red
 Yellow
 Dark Violet
+Black
 
 This is my rainbow colors!
